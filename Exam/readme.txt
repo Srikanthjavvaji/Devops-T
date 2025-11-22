@@ -3,5 +3,4 @@
         "email": "admin@example.com",
         "name": "Admin"
     }
-
     {"name":"Admin","email":"admin@example.com","password":"adminpass"}
